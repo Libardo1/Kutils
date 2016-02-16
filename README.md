@@ -22,5 +22,6 @@ copy from Github and install all dependencies:
 * Scikit-learn
 * pandas
 * xgboost
+* matplotlib
 
 Disclaimer: This project is under development, if you find a bug, or anything that needs correction, please let me know.

@@ -11,6 +11,7 @@ setup(
         "scipy >= 0.14.0",
         "scikit-learn >= 0.16.1",
         "pandas >= 0.17.1",
-        "xgboost >= 0.4"
+        "xgboost >= 0.4",
+        "matplotlib >= 1.5.1"
     ],
 )
